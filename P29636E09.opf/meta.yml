@@ -1,0 +1,33 @@
+id: P29636E09
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG5398
+  instance_id: http://purl.bdrc.io/resource/IE1KG5398
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རིག་བྱེད་གཏམ་རྒྱུད་བདམས་བསྒྲིགས།
+  alt_title:
+    en-x-mixed:
+    - Rig byed gtam rgyud bdams bsgrigs /Bstan-ʾdzin gyis bsgrigs.
+    zh-latn-pinyin-x-ndia:
+    - fei tuo gu shi ji
+  author: None
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    7d78ea25a9a84a79bb7436d8a56844d1:
+      title: པོད ༡་རིག་བྱེད་གཏམ་རྒྱུད་བདམས་བསྒྲིགས
+      volume_number: 1
+      base_file: UT1KG5398_I1KG5415_0000.txt
+      reference: http://purl.bdrc.io/resource/VL62FD8546B95B23CF
+      image_group: I1KG5415
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG5398
+  - http://purl.bdrc.io/resource/MW1KG5398
+  ocr_software: Namsel
+created_at: '2021-12-22T10:49:54.969111'
+last_modified_at: '2021-12-22T10:49:54.969116'
